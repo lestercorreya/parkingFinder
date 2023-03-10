@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359720027284",
+    "project_id": "parkingfinder-c2bf1",
+    "storage_bucket": "parkingfinder-c2bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359720027284:android:a3bc761ffe6ebe9ce46081",
+        "android_client_info": {
+          "package_name": "com.lester.parking_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359720027284-o1edneqotlufcpa97ihe77pr8j95ekv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfqXrnTD5iOWIM9v6pOpKrXYpP1uFo5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359720027284-o1edneqotlufcpa97ihe77pr8j95ekv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
